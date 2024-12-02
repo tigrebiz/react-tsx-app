@@ -1,3 +1,8 @@
+/*
+パフォーマンスメトリクスの収集
+Core Web Vitalsの測定
+*/
+
 import { ReportHandler } from 'web-vitals';
 
 const reportWebVitals = (onPerfEntry?: ReportHandler) => {
